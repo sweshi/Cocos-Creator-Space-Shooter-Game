@@ -1,0 +1,19 @@
+{
+  "actualPlatform": "web-desktop",
+  "apiLevel": "android-23",
+  "appABIs": [],
+  "buildPath": "D:\\cocosbuild",
+  "debug": false,
+  "embedWebDebugger": false,
+  "keystoreAlias": "",
+  "keystoreAliasPassword": "",
+  "keystorePassword": "",
+  "keystorePath": "",
+  "platform": "web-desktop",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "sourceMaps": false,
+  "template": "default",
+  "useDebugKeystore": false,
+  "vsVersion": "2017"
+}
